@@ -1,4 +1,4 @@
-Least cost path to drill sites for Perseverance rover in Jezero crater, Mars.
+Least cost paths to drill sites for Perseverance rover in Jezero crater, Mars.
 
 The ArcGIS Pro project can be downloaded from https://drive.google.com/drive/folders/1CPdkrdZzpGKNRBjvJriCbgo5ms4hqMeb?usp=sharing
 
