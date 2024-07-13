@@ -6,3 +6,4 @@ Requires ArcGIS Pro 3.2.2 to open the project.
 
 ![image](https://github.com/haved-jossain/least-cost-path-analysis/assets/145239371/12014c4d-9eca-411b-a38c-3ad186a8eb01)
 
+The project report can be viewed at https://github.com/haved-jossain/least-cost-path-analysis/blob/main/HossainJaved_GIS582_ProjectReport.pdf.
