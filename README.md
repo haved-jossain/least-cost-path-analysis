@@ -1,4 +1,4 @@
-An ArcGIS Pro project for computing least cost paths to drill sites for Perseverance rover in Jezero crater, Mars.
+An ArcGIS Pro project about computing least cost paths to drill sites for Perseverance rover in Jezero crater, Mars.
 
 Requires ArcGIS Pro 3.2.2 to run the project. Project files can be downloaded from https://drive.google.com/drive/folders/1CPdkrdZzpGKNRBjvJriCbgo5ms4hqMeb?usp=sharing.
 
